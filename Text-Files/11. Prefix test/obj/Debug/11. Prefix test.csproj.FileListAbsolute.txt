@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\11. Prefix test\bin\Debug\_11.Prefix_test.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\11. Prefix test\bin\Debug\_11.Prefix_test.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\11. Prefix test\bin\Debug\_11.Prefix_test.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\11. Prefix test\obj\Debug\11. Prefix test.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\11. Prefix test\obj\Debug\_11.Prefix_test.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\11. Prefix test\obj\Debug\_11.Prefix_test.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\03. Line numbers\bin\Debug\_03.Line_numbers.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\03. Line numbers\bin\Debug\_03.Line_numbers.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\03. Line numbers\bin\Debug\_03.Line_numbers.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\03. Line numbers\obj\Debug\03. Line numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\03. Line numbers\obj\Debug\_03.Line_numbers.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\03. Line numbers\obj\Debug\_03.Line_numbers.pdb

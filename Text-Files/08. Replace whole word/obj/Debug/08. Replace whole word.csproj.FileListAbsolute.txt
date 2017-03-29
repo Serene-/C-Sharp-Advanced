@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\08. Replace whole word\bin\Debug\_08.Replace_whole_word.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\08. Replace whole word\bin\Debug\_08.Replace_whole_word.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\08. Replace whole word\bin\Debug\_08.Replace_whole_word.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\08. Replace whole word\obj\Debug\08. Replace whole word.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\08. Replace whole word\obj\Debug\_08.Replace_whole_word.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\08. Replace whole word\obj\Debug\_08.Replace_whole_word.pdb

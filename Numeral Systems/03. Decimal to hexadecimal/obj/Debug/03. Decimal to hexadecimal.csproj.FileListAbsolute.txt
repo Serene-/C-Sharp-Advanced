@@ -1,0 +1,5 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\03. Decimal to hexadecimal\bin\Debug\_03.Decimal_to_hexadecimal.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\03. Decimal to hexadecimal\bin\Debug\_03.Decimal_to_hexadecimal.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\03. Decimal to hexadecimal\bin\Debug\_03.Decimal_to_hexadecimal.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\03. Decimal to hexadecimal\obj\Debug\_03.Decimal_to_hexadecimal.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\03. Decimal to hexadecimal\obj\Debug\_03.Decimal_to_hexadecimal.pdb

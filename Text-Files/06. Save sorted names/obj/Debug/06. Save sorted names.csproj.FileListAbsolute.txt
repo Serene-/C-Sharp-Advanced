@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\06. Save sorted names\bin\Debug\_06.Save_sorted_names.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\06. Save sorted names\bin\Debug\_06.Save_sorted_names.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\06. Save sorted names\bin\Debug\_06.Save_sorted_names.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\06. Save sorted names\obj\Debug\06. Save sorted names.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\06. Save sorted names\obj\Debug\_06.Save_sorted_names.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\06. Save sorted names\obj\Debug\_06.Save_sorted_names.pdb

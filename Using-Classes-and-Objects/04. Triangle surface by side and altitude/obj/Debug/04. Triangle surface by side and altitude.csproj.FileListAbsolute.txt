@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\04. Triangle surface by side and altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\04. Triangle surface by side and altitude\obj\Debug\04. Triangle surface by side and altitude.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\04. Triangle surface by side and altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\04. Triangle surface by side and altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\04. Triangle surface by side and altitude\obj\Debug\_04.Triangle_surface_by_side_and_altitude.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\04. Triangle surface by side and altitude\obj\Debug\_04.Triangle_surface_by_side_and_altitude.pdb

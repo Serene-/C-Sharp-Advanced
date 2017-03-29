@@ -1,0 +1,5 @@
+c:\users\stefka\documents\visual studio 2012\Projects\Text-Files\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config
+c:\users\stefka\documents\visual studio 2012\Projects\Text-Files\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe
+c:\users\stefka\documents\visual studio 2012\Projects\Text-Files\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.pdb
+c:\users\stefka\documents\visual studio 2012\Projects\Text-Files\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.exe
+c:\users\stefka\documents\visual studio 2012\Projects\Text-Files\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.pdb

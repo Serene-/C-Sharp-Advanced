@@ -1,0 +1,6 @@
+c:\users\stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\02. Random numbers\bin\Debug\_02.Random_numbers.exe.config
+c:\users\stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\02. Random numbers\bin\Debug\_02.Random_numbers.exe
+c:\users\stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\02. Random numbers\bin\Debug\_02.Random_numbers.pdb
+c:\users\stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\02. Random numbers\obj\Debug\02. Random numbers.csprojResolveAssemblyReference.cache
+c:\users\stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\02. Random numbers\obj\Debug\_02.Random_numbers.exe
+c:\users\stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\02. Random numbers\obj\Debug\_02.Random_numbers.pdb

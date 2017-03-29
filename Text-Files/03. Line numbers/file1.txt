@@ -1,0 +1,6 @@
+Use the File class for typical operations such as copying, moving, renaming, creating, opening, deleting, and appending to a single file at a time. You can also use the File class to get and set file attributes or DateTime information related to the creation, access, and writing of a file. If you want to perform operations on multiple files, see Directory.GetFiles or DirectoryInfo.GetFiles.
+Many of the File methods return other I/O types when you create or open files. You can use these other types to further manipulate a file. For more information, see specific File members such as OpenText, CreateText, or Create.
+Because all File methods are static, it might be more efficient to use a File method rather than a corresponding FileInfo instance method if you want to perform only one action. All File methods require the path to the file that you are manipulating.
+The static methods of the File class perform security checks on all methods. If you are going to reuse an object several times, consider using the corresponding instance method of FileInfo instead, because the security check will not always be necessary.
+By default, full read/write access to new files is granted to all users.
+The following table describes the enumerations that are used to customize the behavior of various File methods.

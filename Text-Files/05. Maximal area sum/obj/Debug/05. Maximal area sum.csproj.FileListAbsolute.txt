@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Text-Files\05. Maximal area sum\obj\Debug\05. Maximal area sum.csprojResolveAssemblyReference.cache

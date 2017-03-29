@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\07. One system to any other\obj\Debug\07. One system to any other.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.pdb

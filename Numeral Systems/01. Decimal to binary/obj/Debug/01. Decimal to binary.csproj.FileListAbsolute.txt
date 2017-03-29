@@ -1,0 +1,6 @@
+c:\users\stefka\documents\visual studio 2012\Projects\Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe.config
+c:\users\stefka\documents\visual studio 2012\Projects\Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe
+c:\users\stefka\documents\visual studio 2012\Projects\Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.pdb
+c:\users\stefka\documents\visual studio 2012\Projects\Numeral Systems\01. Decimal to binary\obj\Debug\01. Decimal to binary.csprojResolveAssemblyReference.cache
+c:\users\stefka\documents\visual studio 2012\Projects\Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.exe
+c:\users\stefka\documents\visual studio 2012\Projects\Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.pdb

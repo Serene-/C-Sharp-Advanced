@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\05. Hexadecimal to binary\obj\Debug\05. Hexadecimal to binary.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.pdb

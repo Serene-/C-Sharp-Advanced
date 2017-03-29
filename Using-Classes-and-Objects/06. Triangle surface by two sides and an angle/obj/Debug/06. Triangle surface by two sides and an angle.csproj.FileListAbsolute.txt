@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\06. Triangle surface by two sides and an angle\bin\Debug\_06.Triangle_surface_by_two_sides_and_an_angle.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\06. Triangle surface by two sides and an angle\bin\Debug\_06.Triangle_surface_by_two_sides_and_an_angle.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\06. Triangle surface by two sides and an angle\bin\Debug\_06.Triangle_surface_by_two_sides_and_an_angle.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\06. Triangle surface by two sides and an angle\obj\Debug\_06.Triangle_surface_by_two_sides_and_an_angle.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\06. Triangle surface by two sides and an angle\obj\Debug\_06.Triangle_surface_by_two_sides_and_an_angle.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\06. Triangle surface by two sides and an angle\obj\Debug\06. Triangle surface by two sides and an angle.csprojResolveAssemblyReference.cache

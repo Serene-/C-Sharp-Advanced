@@ -1,0 +1,1 @@
+When a match attempt is repeated by calling the Matches method, the regular expression engine gives empty matches special treatment.  Otherwise, because an empty match does not result in any forward movement, the next match would start in exactly the same place as the previous match, and it would match the same empty string repeatedly.

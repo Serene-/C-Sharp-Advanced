@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\04. Hexadecimal to decimal\obj\Debug\04. Hexadecimal to decimal.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Numeral Systems\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.pdb

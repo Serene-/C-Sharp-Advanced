@@ -1,0 +1,6 @@
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\08. Sum integers\bin\Debug\_08.Sum_integers.exe.config
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\08. Sum integers\bin\Debug\_08.Sum_integers.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\08. Sum integers\bin\Debug\_08.Sum_integers.pdb
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\08. Sum integers\obj\Debug\08. Sum integers.csprojResolveAssemblyReference.cache
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\08. Sum integers\obj\Debug\_08.Sum_integers.exe
+C:\Users\Stefka\documents\visual studio 2012\Projects\Using-Classes-and-Objects\08. Sum integers\obj\Debug\_08.Sum_integers.pdb
